@@ -31,7 +31,7 @@
 要求至少实现以下**三种**数值优化算法中的**两种**：
 1. **坐标轴下降法 (Coordinate Descent, CD)**：针对 $\ell_1$ 惩罚项不可导的特性，逐维度进行闭式解更新。
 2. **近端梯度下降法 (Proximal Gradient Method)**：
-   - 基础版：ISTA (Iterative Shrinkage-Thresholding Algorithm)
+   - 基础版：ISTA (Iterative Shrinkage-Thresholding Algorithm) 
    - 加速版：FISTA (Fast ISTA)，需体现 Nesterov 加速动量的推导与实现。
 3. **交替方向乘子法 (ADMM)**：将无约束问题转化为约束问题，推导并实现增广拉格朗日函数的交替迭代更新。
 
