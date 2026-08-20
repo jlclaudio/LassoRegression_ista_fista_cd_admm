@@ -19,8 +19,8 @@ These algorithms are evaluated under two core experimental scenarios:
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/jlclaudio/LassoRegression_ista_fista_cd_admm.git
+   cd https://github.com/jlclaudio/LassoRegression_ista_fista_cd_admm.git
    ```
 
 2. **Install dependencies:**
